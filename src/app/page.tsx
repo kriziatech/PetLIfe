@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { Phone, MapPin, Calendar, ShieldCheck, Heart, Award, Star, ArrowRight, Clock, MessageCircle } from "lucide-react";
+import { Phone, Calendar, ShieldCheck, Heart, Award, Star, ArrowRight, Clock, MessageCircle } from "lucide-react";
 
 export default function Home() {
   return (
